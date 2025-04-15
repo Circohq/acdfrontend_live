@@ -21,7 +21,7 @@ export default function Sponsors() {
 
         <div className="verified_users">
           <p>
-            <span>500+</span>Organisations have been verified
+            <span>5+</span>Organisations have been verified
           </p>
         </div>
       </div>
