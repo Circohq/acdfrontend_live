@@ -80,7 +80,7 @@ const formFields: AppInputProps[] = [
   {
     type: "text",
     name: "phone",
-    placeholder: "+234 703 1111 2222",
+    placeholder: "+234 703 XXX XXXX",
     required: true,
     icon: <Call />,
     schema: z.string(),
