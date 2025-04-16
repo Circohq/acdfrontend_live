@@ -99,14 +99,6 @@ export default function Faq() {
         </p>
       </div>
 
-      <div className="questions">
-        <div className="question_main">
-          <p>Where can I find information on accessibility?</p>
-          <img src="/ASSETS/Icons/cross.svg" alt="" id="cross_img" role="button" />
-        </div>
-
-        <p className="hidden_answer">
-          Expanded information on accessibility can be found on the National Accessibility Standards Regulation which was formulated by the National Commission for Persons with Disabilities.</p>
-      </div>
+      
     </section>;
 }
