@@ -85,7 +85,7 @@ export default function StructuralComplianceMetrics() {
   return (
     <div className="dashboard-card flex flex-col gap-3">
       <h3 className="font-semiblod text-sm">Structural Compliance Metrics</h3>
-      <div className="w-[300px]">
+      <div className="w-full">
         <Suspense>
           <Bar options={options} data={data} className="w-full "  />
         </Suspense>
